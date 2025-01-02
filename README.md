@@ -1,5 +1,3 @@
-Here's a professional and personalized README.md file for your GitHub profile:
-
 ```markdown
 # 👩🏾‍💻 Abayo Akinyi | Software Developer
 
@@ -67,5 +65,3 @@ I'm open to collaborating on web development projects, innovative applications, 
 _“Technology is best when it brings people together.”_  
 ― **Matt Mullenweg**
 ```
-
-Feel free to tweak or expand this further to match your style!
